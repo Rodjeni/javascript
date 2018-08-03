@@ -1,3 +1,4 @@
+// Smooth Scroll (jQuery)
 $(document).ready(function() {
   $("a").on('click', function(event) {
 
@@ -14,4 +15,4 @@ $(document).ready(function() {
       });
     }
   });
-});//end #SMOOTH SCROLL
+});//end #Smooth Scroll
